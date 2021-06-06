@@ -12,6 +12,7 @@ I am using some very new and latest library so something are broken
 * Mockito is not ideal for nullsafety project at this time
 * health plugin not work with some health data on Android
 * not tested on iOS
+* not include CI/CD integration yet - (because it is a hackathon weekend project :D )
 
 ## Screenshots
 ![Screenshot 1](screenshots/1.jpg)
