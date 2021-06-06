@@ -1,5 +1,5 @@
-import 'package:devx/data/repositories/health_repository.dart';
-import 'package:devx/ui/pages/home/home_page_cubit.dart';
+import 'package:myFit/data/repositories/health_repository.dart';
+import 'package:myFit/ui/pages/home/home_page_cubit.dart';
 import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';

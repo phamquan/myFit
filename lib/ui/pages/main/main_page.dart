@@ -1,6 +1,6 @@
-import 'package:devx/cubits/health_permission_cubit.dart';
-import 'package:devx/ui/pages/home/home_page.dart';
-import 'package:devx/ui/pages/menu/menu_page.dart';
+import 'package:myFit/cubits/health_permission_cubit.dart';
+import 'package:myFit/ui/pages/home/home_page.dart';
+import 'package:myFit/ui/pages/menu/menu_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

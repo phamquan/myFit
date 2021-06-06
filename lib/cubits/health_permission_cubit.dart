@@ -1,5 +1,5 @@
 import 'package:bloc/bloc.dart';
-import 'package:devx/data/repositories/health_repository.dart';
+import 'package:myFit/data/repositories/health_repository.dart';
 import 'package:flutter/cupertino.dart';
 
 class HealthPermissionCubit extends Cubit<HealthPermissionState> {
