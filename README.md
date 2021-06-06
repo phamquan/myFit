@@ -5,7 +5,15 @@ A Project for testing Google Fit, HealthKit on Flutter
 This project aims to do the following:
 * Get permission to access health data
 * Get health data from ranges
-* Display health data on chart 
+* Display health data on chart
+
+## Design patterns
+I am making this sample based on:
+* flutter_bloc
+* fl_chart
+* health
+
+Appreciate much for your works!!!
 
 ## TODO
 I am using some very new and latest library so something are broken
